@@ -14,7 +14,7 @@ Tutorial on text classification based on Keras with several example files:
 Datasets:
 <ol>
   <li> <a href="dat/traveler">Traveler dataset</a>. The Traveler dataset comes from a limited-domain Spanish-English machine translation application for human-to-human communication situations in the front-desk of a hotel. It was semi-automatically built from a small “seed” dataset of sentence pairs collected from traveler-oriented booklets by four persons; A, F,
-J and P, in accordance with an independent subdomain assignment, that define four classes. The Traveler dataset contains 8.000 sentence pairs, with 2.000 pairs per class.</li>
-  <li> <a href="dat/tweets"> Twitter US Airline Sentiment</a>. A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to classify positive, negative, and neutral tweets. Data source <a href="https://www.kaggle.com/crowdflower/twitter-airline-sentiment">https://www.kaggle.com/crowdflower/twitter-airline-sentiment</a></li>
+J and P, in accordance with an independent subdomain assignment, that define 4 classes. The Traveler dataset contains 8.000 sentence pairs, with 2.000 pairs per class.</li>
+  <li> <a href="dat/tweets"> Twitter US Airline Sentiment</a>. A sentiment analysis job about the problems of each major U.S. airline. Twitter data was scraped from February of 2015 and contributors were asked to classify into 3 classes: positive, negative, and neutral tweets. Data source: <a href="https://www.kaggle.com/crowdflower/twitter-airline-sentiment">https://www.kaggle.com/crowdflower/twitter-airline-sentiment</a></li>
 </ol>
 
