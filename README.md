@@ -4,6 +4,6 @@ Repository for the master's degree course "Aplicaciones de Reconocimiento de For
 Tutorial on text classification based on Keras with several sample files:
 
 <ul>
-  <li><src/KerasTutorial-PreTrainedWordEmbedding.ipynb </li>
+  <li> <a href="src/KerasTutorial-PreTrainedWordEmbedding.ipynb">Pre-trained English Word Embedding</a> </li>
 </ul>
 
