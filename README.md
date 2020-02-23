@@ -11,3 +11,9 @@ Tutorial on text classification based on Keras with several example files:
   <li> <a href="src/KerasTutorial-NeuralMachineTranslationWithAttention.ipynb"> Neural Machine Translation model based on the attention mechanism</a>.</li>
 </ol>
 
+Datasets:
+<ol>
+  <li> <a href="dat/traveler">Traveler dataset</a>. </li>
+  <li> <a href="dat/tweets"> Twitter US Airline Sentiment</a>.</li>
+</ol>
+
