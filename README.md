@@ -9,6 +9,7 @@ Tutorial on text classification based on Keras with several example files:
   <li> <a href="src/KerasTutorial-TrainingWordEmbeddingConv1D.ipynb">Adding a convolutional 1D layer to the second example</a>.</li>
   <li> <a href="src/KerasTutorial-TrainingWordEmbedding.ipynb">Replacing global average 1D pooling and convolutional 1D layers in previous two examples by a BLSTM layer</a>.</li>
   <li> <a href="src/KerasTutorial-TrainingBilingualModel.ipynb">Bilingual text classifier with independent word embedding and BLSTM layer per language, but common feed-forward layer and softmax output</a>.</li>
+  <li> <a href="src/KerasTutorial-TrainingBilingualModelSharedLayer.ipynb">Bilingual text classifier with independent word embedding per language, but shared BLSTM layer</a>.</li>
   <li> <a href="src/KerasTutorial-NeuralMachineTranslationWithAttention.ipynb"> Neural Machine Translation model based on the attention mechanism</a>.</li>
 </ol>
 
