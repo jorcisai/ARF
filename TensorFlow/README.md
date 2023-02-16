@@ -1,4 +1,4 @@
-# ARF
+# Tensorflow/Keras
 Tutorial on text classification based on Keras with several example files:
 
 <ol>
