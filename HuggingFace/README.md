@@ -9,6 +9,10 @@ This course will teach you about some of the ingredients of the Hugging Face eco
 <li> <a href="03-Pipeline.ipynb">Looking into the pipeline function</a>: It shows the three basic elements of a pipeline function still on a high-level overview. These three elements are Tokenizer (preprocessing), the Model (pre-trained models) and the Pos-processing exemplified on a simple sentiment-analysis (sentences classification) tasks.</li>
 <li> <a href="04-Models.ipynb">Overview of working with Models</a>: Short notebook that shows how to load and save models.
 </li>
+<li> <a href="05-Tokenizers.ipynb">Going into the details of Tokenizers</a>: Explaining the components of Tokenizers in HuggingFace. An exercise is also proposed to apply SentencePiece preprocessing and Encoding.
+</li>
+<li> <a href="06-Finetuning-T5.ipynb">Finetuning a pretrained model</a>: This is a lengthy notebook that includes how to work with Datasets in HuggingFace and how to use them to fine-tune and evaluate a pre-trained model. It is based on a MT task for English into German using the Europarl-ST dataset and the pre-treind T5 model. As exercise, it is proposed to adapt this notebook to fine-tune the mT5 model for the task of English into Spanish MT.
+</li>
 </ol>
 
 
