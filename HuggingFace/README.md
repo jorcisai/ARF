@@ -13,7 +13,7 @@ This course will teach you about some of the ingredients of the Hugging Face eco
 </li>
 <li> <a href="06-Finetuning-T5.ipynb">Finetuning a pretrained MT model</a>: This is a lengthy notebook that includes how to work with Datasets in HuggingFace and how to use them to fine-tune and evaluate a pre-trained model. It is based on a MT task for English into German using the Europarl-ST dataset and the pre-trained T5 model. As exercise, it is proposed to adapt this notebook to fine-tune the mT5 model for the task of English into Spanish MT.
 </li>
-<li> <a href="06-Finetuning-ImageClassification.ipynb">Finetuning a pretrained image classification model</a>: This notebook includes how to prepare images  to fine-tune and evaluate a pre-trained image classification model. It is based on the fashion MNIST classification task and the pre-trained DeiT model pre-trained and fine-tuned on ImageNet-1k. As exercise, it is proposed to adapt this notebook to fine-tune the same model on the CIFAR-10 dataset.
+<li> <a href="07-Finetuning-ImageClassification.ipynb">Finetuning a pretrained image classification model</a>: This notebook includes how to prepare images  to fine-tune and evaluate a pre-trained image classification model. It is based on the fashion MNIST classification task and the pre-trained DeiT model pre-trained and fine-tuned on ImageNet-1k. As exercise, it is proposed to adapt this notebook to fine-tune the same model on the CIFAR-10 dataset.
 </li>
 </ol>
 
